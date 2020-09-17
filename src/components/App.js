@@ -3,8 +3,6 @@ import { connect } from 'react-redux'
 import '../styles/App.scss'
 
 const App = (props) => {
-    // console.log(process.env.APP_AUTHOR)
-    console.log(TEST_ENV)
     return (
         <div className="app">
             <div className="app__content">
