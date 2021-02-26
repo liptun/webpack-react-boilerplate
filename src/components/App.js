@@ -11,6 +11,7 @@ const App = (props) => {
                 <h2>
                     <pre>webpack-react-boilerplate</pre>
                 </h2>
+                <p>by Rafał Karczmarzyk</p>
                 <hr />
                 <h4>
                     <strong>Featuring</strong>

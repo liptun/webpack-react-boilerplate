@@ -4,6 +4,7 @@ import { Provider } from 'react-redux'
 import './icons.font'
 
 import './styles/reset.scss'
+import './styles/App.scss'
 
 import Router from './Router'
 import configureStore from './store'
